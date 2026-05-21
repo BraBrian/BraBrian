@@ -31,7 +31,7 @@ I build **Next.js platforms for Swiss SMBs and founders** — e-commerce, intern
 
 ### 🧱 Default stack
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,prisma,postgres,nodejs,vercel,stripe,docker,github,figma" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,prisma,postgres,nodejs,vercel,docker,githubactions,github,figma" alt="Stack" />
 
 ### 🛠 How I work
 
