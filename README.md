@@ -96,13 +96,6 @@ I build **Next.js platforms for Swiss SMBs and founders** — e-commerce, intern
   </tr>
 </table>
 
-### 🛠 How I work
-
-- **Clean Architecture** with ESLint-enforced boundaries — domain layer has zero external deps
-- **Type-safe end-to-end** — Zod-validated APIs, Prisma typed queries, no `any`
-- **Production-first** — observability, audit logging, sensitive-data masking, CSRF, rate limiting
-- **Swiss quality, fast delivery** — ships under tight timelines without skipping the basics
-
 ### 📊 By the numbers
 
 <p align="left">
