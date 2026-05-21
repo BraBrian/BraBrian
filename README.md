@@ -14,7 +14,7 @@ I build **Next.js platforms for Swiss SMBs and founders** — e-commerce, intern
 ---
 
 <p align="center">
-  <img src="./assets/dino.svg" alt="Chrome dino jumping over cacti" width="100%" />
+  <img src="./assets/matrix.svg" alt="Matrix code rain" width="100%" />
 </p>
 
 ### 🚀 Currently shipping
@@ -38,21 +38,39 @@ I build **Next.js platforms for Swiss SMBs and founders** — e-commerce, intern
     </td>
     <td valign="top" width="50%">
       <h4 align="center">Backend & Data</h4>
-      <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,mysql,php" /></p>
+      <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,mysql,php,kotlin,ktor" /></p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h4 align="center">DevOps & Tooling</h4>
-      <p align="center"><img src="https://skillicons.dev/icons?i=vercel,docker,kubernetes,githubactions,github,vscode,bash,figma" /></p>
+      <h4 align="center">Mobile</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=android,swift" /><br/>
+        <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/RevenueCat-FF6432?style=flat-square&logo=revenuecat&logoColor=white" />
+        <img src="https://img.shields.io/badge/Play%20Console-414141?style=flat-square&logo=googleplay&logoColor=white" />
+        <img src="https://img.shields.io/badge/App%20Store%20Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apple%20Developer-000000?style=flat-square&logo=apple&logoColor=white" />
+      </p>
     </td>
     <td valign="top" width="50%">
-      <h4 align="center">CMS, Commerce & Marketing</h4>
+      <h4 align="center">DevOps & Cloud</h4>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=vercel,docker,kubernetes,gcp,cloudflare,sentry,githubactions,github,vscode,bash" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <h4 align="center">CMS, Commerce, Marketing & AI</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
         <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
         <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
         <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black" />
+        <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
         <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
         <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
       </p>
