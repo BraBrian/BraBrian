@@ -1,93 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Chrome dino jumping over cacti">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Chrome dino jumping over cacti">
   <style>
-    .pixel { fill: #535353; }
-    .eye   { fill: #fff;    }
-    .mouth { fill: #fff;    }
+    .px     { fill: #535353; }
+    .eye    { fill: #fff;    }
     .ground { stroke: #535353; stroke-width: 2; fill: none; }
     .speck  { fill: #535353; }
 
     @media (prefers-color-scheme: dark) {
-      .pixel, .speck { fill: #c6c6c6; }
+      .px, .speck { fill: #c6c6c6; }
       .ground { stroke: #c6c6c6; }
       .eye    { fill: #1a1a1a; }
-      .mouth  { fill: #1a1a1a; }
     }
 
     .dino {
-      transform-origin: center;
       transform-box: fill-box;
-      animation: jump 1.6s cubic-bezier(0.25, 0, 0.25, 1) infinite;
+      transform-origin: center bottom;
+      animation: jump 1.5s cubic-bezier(0.3, 0, 0.3, 1) infinite;
     }
     @keyframes jump {
       0%, 55%, 100% { transform: translateY(0); }
-      20%, 35%      { transform: translateY(-72px); }
+      18%, 32%      { transform: translateY(-70px); }
     }
 
-    .cactus  { animation: scroll 3.2s linear infinite; }
-    .cactus2 { animation: scroll 3.2s linear infinite; animation-delay: 1.6s; }
+    .cactus  { animation: scroll 3.0s linear infinite; }
+    .cactus2 { animation: scroll 3.0s linear infinite; animation-delay: 1.5s; }
     @keyframes scroll {
-      from { transform: translateX(800px); }
+      from { transform: translateX(820px); }
       to   { transform: translateX(-80px); }
     }
-
-    .speck  { animation: scroll 2.4s linear infinite; }
-    .speck2 { animation: scroll 2.4s linear infinite; animation-delay: 1.2s; }
   </style>
 
-  <!-- Ground -->
-  <line class="ground" x1="0" y1="170" x2="800" y2="170" />
+  <!-- Ground line -->
+  <line class="ground" x1="0" y1="155" x2="800" y2="155" />
 
-  <!-- Ground specks -->
-  <g class="speck">
-    <rect class="speck" x="0" y="175" width="6" height="2" />
-    <rect class="speck" x="40" y="178" width="3" height="2" />
-  </g>
-  <g class="speck2">
-    <rect class="speck" x="0" y="176" width="4" height="2" />
-    <rect class="speck" x="60" y="174" width="5" height="2" />
-  </g>
+  <!-- Ground specks (static) -->
+  <rect class="speck" x="220" y="160" width="6" height="2" />
+  <rect class="speck" x="430" y="162" width="4" height="2" />
+  <rect class="speck" x="640" y="160" width="5" height="2" />
 
-  <!-- Dino (stylized pixel T-Rex) -->
-  <g class="dino" transform="translate(90, 80)">
-    <!-- Tail tip -->
-    <rect class="pixel" x="0"  y="36" width="8"  height="6" />
-    <!-- Tail -->
-    <rect class="pixel" x="8"  y="30" width="14" height="12" />
-    <!-- Back / body -->
-    <rect class="pixel" x="22" y="20" width="30" height="50" />
+  <!-- Dino (chunky Chrome-style T-Rex) -->
+  <g class="dino" transform="translate(70, 65)">
+
+    <!-- Brow ridge on top of head -->
+    <rect class="px" x="44" y="-4" width="40" height="6"  />
+
+    <!-- Head main block -->
+    <rect class="px" x="40" y="2"  width="44" height="30" />
+
+    <!-- Eye (white) -->
+    <rect class="eye" x="70" y="8" width="6" height="6" />
+
+    <!-- Jaw / underbite -->
+    <rect class="px" x="50" y="30" width="32" height="6" />
+    <!-- Tooth notch (white cut into jaw) -->
+    <rect class="eye" x="72" y="30" width="4" height="4" />
+
     <!-- Neck -->
-    <rect class="pixel" x="44" y="10" width="14" height="14" />
-    <!-- Head -->
-    <rect class="pixel" x="48" y="0"  width="36" height="22" />
-    <!-- Head bottom (jaw) -->
-    <rect class="pixel" x="58" y="22" width="22" height="6" />
-    <!-- Eye -->
-    <rect class="eye"   x="72" y="6"  width="4"  height="4" />
-    <!-- Mouth slot -->
-    <rect class="mouth" x="76" y="18" width="4"  height="2" />
-    <!-- Front arm -->
-    <rect class="pixel" x="48" y="42" width="8"  height="4" />
+    <rect class="px" x="34" y="22" width="16" height="14" />
+
+    <!-- Body -->
+    <rect class="px" x="14" y="36" width="50" height="38" />
+
+    <!-- Tail (chunky, extends back) -->
+    <rect class="px" x="0"  y="40" width="14" height="10" />
+    <rect class="px" x="-6" y="44" width="6"  height="6"  />
+
+    <!-- Front arm (small stub) -->
+    <rect class="px" x="46" y="54" width="8" height="6" />
+
     <!-- Legs -->
-    <rect class="pixel" x="24" y="70" width="10" height="14" />
-    <rect class="pixel" x="40" y="70" width="10" height="14" />
+    <rect class="px" x="18" y="74" width="10" height="16" />
+    <rect class="px" x="42" y="74" width="10" height="16" />
+
     <!-- Feet -->
-    <rect class="pixel" x="22" y="84" width="14" height="4" />
-    <rect class="pixel" x="38" y="84" width="14" height="4" />
+    <rect class="px" x="14" y="86" width="16" height="4" />
+    <rect class="px" x="38" y="86" width="16" height="4" />
   </g>
 
-  <!-- Cactus 1 (tall) -->
+  <!-- Cactus 1 (tall classic shape) -->
   <g class="cactus">
-    <rect class="pixel" x="0"   y="120" width="12" height="50" />
-    <rect class="pixel" x="-10" y="135" width="10" height="22" />
-    <rect class="pixel" x="-16" y="138" width="6"  height="16" />
-    <rect class="pixel" x="12"  y="128" width="10" height="30" />
-    <rect class="pixel" x="22"  y="132" width="6"  height="22" />
+    <rect class="px" x="0"   y="105" width="12" height="50" />
+    <rect class="px" x="-12" y="118" width="12" height="22" />
+    <rect class="px" x="-18" y="122" width="6"  height="14" />
+    <rect class="px" x="12"  y="112" width="12" height="32" />
+    <rect class="px" x="24"  y="118" width="6"  height="22" />
   </g>
 
   <!-- Cactus 2 (smaller cluster) -->
   <g class="cactus2">
-    <rect class="pixel" x="0"  y="140" width="10" height="30" />
-    <rect class="pixel" x="-6" y="148" width="6"  height="18" />
-    <rect class="pixel" x="10" y="146" width="6"  height="20" />
+    <rect class="px" x="0"  y="125" width="10" height="30" />
+    <rect class="px" x="-6" y="135" width="6"  height="20" />
+    <rect class="px" x="10" y="132" width="6"  height="22" />
   </g>
 </svg>
