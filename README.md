@@ -2,9 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=00C16E&width=560&lines=Hoi%21+Ich+bin+Brian.;Freelance+Full-Stack+Web+Dev.;Shipping+from+Schaffhausen+%F0%9F%87%A8%F0%9F%87%AD" alt="Hoi! Ich bin Brian. Freelance Full-Stack Web Dev. Shipping from Schaffhausen." />
 </a>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=BraBrian&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-> *"Ship production, not slides."*
+<p align="right">
+  <a href="https://github.com/sponsors/BraBrian"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=flat&logo=githubsponsors&logoColor=white" alt="Sponsor BraBrian" /></a>
+  <img src="https://komarev.com/ghpvc/?username=BraBrian&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 I build **Next.js platforms for Swiss SMBs and founders** — e-commerce, internal tools, AI-augmented apps. Currently shipping [**mrbrunch.ch**](https://mrbrunch.ch), an enterprise-grade brunch delivery platform.
 
@@ -22,6 +23,7 @@ I build **Next.js platforms for Swiss SMBs and founders** — e-commerce, intern
 |---|---|
 | [**mrbrunch.ch**](https://mrbrunch.ch) | Swiss brunch e-commerce. B2B accounts, subscription orders, Stripe + Bexio billing, inventory-driven catalog. Next.js 16 · Prisma · TypeScript · Vercel. |
 | [**animalpoliceassociation.com**](https://animalpoliceassociation.com) | Public-facing site for the Animal Police Association. Bilingual, accessible, content-driven. |
+| [**AdventCraft**](https://github.com/adventcraft/adventcraft) ([adventcraft.app](https://adventcraft.app)) | Cross-platform mobile app — interactive advent calendars for creators and brands. iOS + Android via Compose Multiplatform, Ktor backend, embed via iFrame or export as Reels/Shorts. |
 | [**briangantner.ch**](https://briangantner.ch) | Portfolio + contact hub. |
 | **50+ live platforms** | Physiotherapy, optometry, jewelry, photography, gardening, hairdressing, sewing studios, restaurants, consulting firms. Bilingual (DE/EN), animated, performance-tuned. |
 | **AI-augmented features** | Claude API, Vercel AI SDK, agentic workflows, MCP integrations on top of production apps. |
