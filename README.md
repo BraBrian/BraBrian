@@ -34,45 +34,63 @@ I build **Next.js platforms for Swiss SMBs and founders** — e-commerce, intern
   <tr>
     <td valign="top" width="50%">
       <h4 align="center">Frontend</h4>
-      <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" /></p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,vite,eslint,npm,pnpm" /><br/>
+        <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" />
+        <img src="https://img.shields.io/badge/Turbopack-FF1E56?style=flat-square&logo=turbo&logoColor=white" />
+      </p>
     </td>
     <td valign="top" width="50%">
       <h4 align="center">Backend & Data</h4>
-      <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,mysql,php,kotlin,ktor" /></p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,mysql,php,kotlin,ktor,jest,vitest" /><br/>
+        <img src="https://img.shields.io/badge/NextAuth.js-7C3AED?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" />
+      </p>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <h4 align="center">Mobile</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=android,swift" /><br/>
+        <img src="https://skillicons.dev/icons?i=android,swift,xcode,androidstudio" /><br/>
         <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
         <img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
         <img src="https://img.shields.io/badge/RevenueCat-FF6432?style=flat-square&logo=revenuecat&logoColor=white" />
         <img src="https://img.shields.io/badge/Play%20Console-414141?style=flat-square&logo=googleplay&logoColor=white" />
         <img src="https://img.shields.io/badge/App%20Store%20Connect-0D96F6?style=flat-square&logo=appstore&logoColor=white" />
         <img src="https://img.shields.io/badge/Apple%20Developer-000000?style=flat-square&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fastlane-21D26C?style=flat-square&logo=fastlane&logoColor=white" />
       </p>
     </td>
     <td valign="top" width="50%">
       <h4 align="center">DevOps & Cloud</h4>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=vercel,docker,kubernetes,gcp,cloudflare,sentry,githubactions,github,vscode,bash" />
+        <img src="https://skillicons.dev/icons?i=vercel,docker,kubernetes,gcp,cloudflare,sentry,githubactions,github,vscode,bash,postman" /><br/>
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td valign="top" colspan="2">
-      <h4 align="center">CMS, Commerce, Marketing & AI</h4>
+      <h4 align="center">CMS, Commerce, Marketing, AI & Workflow</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
         <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
         <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bexio-009FE3?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black" />
         <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
         <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
         <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white" />
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
       </p>
     </td>
   </tr>
