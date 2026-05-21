@@ -12,19 +12,16 @@ I build **Next.js platforms for Swiss SMBs and founders** — e-commerce, intern
 
 ---
 
-### Snake eats my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BraBrian/BraBrian/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BraBrian/BraBrian/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/BraBrian/BraBrian/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img src="./assets/dino.svg" alt="Chrome dino jumping over cacti" width="100%" />
+</p>
 
 ### 🚀 Currently shipping
 
 | Project | What it is |
 |---|---|
 | [**mrbrunch.ch**](https://mrbrunch.ch) | Swiss brunch e-commerce. B2B accounts, subscription orders, Stripe + Bexio billing, inventory-driven catalog. Next.js 16 · Prisma · TypeScript · Vercel. |
+| [**animalpoliceassociation.com**](https://animalpoliceassociation.com) | Public-facing site for the Animal Police Association. Bilingual, accessible, content-driven. |
 | [**briangantner.ch**](https://briangantner.ch) | Portfolio + contact hub. |
 | **20+ live Swiss platforms** | Physiotherapy, optometry, jewelry, photography, gardening, hairdressing, sewing studios. Bilingual (DE/EN), animated, performance-tuned. |
 | **AI-augmented features** | Claude API, Vercel AI SDK, agentic workflows, MCP integrations on top of production apps. |
